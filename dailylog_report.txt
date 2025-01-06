@@ -1,1 +1,10 @@
-Day 1 Testing Result = 92% with 750 data
+Day 1 Testing Result with 750 data = 
+Classification Report K 1: 
+              precision    recall  f1-score   support
+
+           0       0.91      0.91      0.91        67
+           1       0.93      0.93      0.93        83
+
+    accuracy                           0.92       150
+   macro avg       0.92      0.92      0.92       150
+weighted avg       0.92      0.92      0.92       150
