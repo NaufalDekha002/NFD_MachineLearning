@@ -21,3 +21,14 @@ Classification Report K 5:
 weighted avg       0.94      0.94      0.94       150
 
 Day 3 Testing Result with 1800 data = 
+Classification Report K 1: 
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.97       207
+           1       0.97      0.95      0.96       153
+
+    accuracy                           0.97       360
+   macro avg       0.97      0.97      0.97       360
+weighted avg       0.97      0.97      0.97       360
+
+Day 4 Testing Result with 2000 data =
