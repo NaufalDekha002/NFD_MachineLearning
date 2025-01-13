@@ -32,3 +32,14 @@ Classification Report K 1:
 weighted avg       0.97      0.97      0.97       360
 
 Day 4 Testing Result with 2000 data =
+Classification Report K 11: 
+              precision    recall  f1-score   support
+
+       Flood       0.96      0.94      0.95       188
+      Normal       0.96      0.97      0.97       262
+
+    accuracy                           0.96       450
+   macro avg       0.96      0.96      0.96       450
+weighted avg       0.96      0.96      0.96       450
+
+Day 5 Testing Result with 3000 data =
