@@ -43,3 +43,35 @@ Classification Report K 11:
 weighted avg       0.96      0.96      0.96       450
 
 Day 5 Testing Result with 3000 data =
+Classification Report K 11: 
+              precision    recall  f1-score   support
+
+       Flood       0.96      0.94      0.95       188
+      Normal       0.96      0.97      0.97       262
+
+    accuracy                           0.96       450
+   macro avg       0.96      0.96      0.96       450
+weighted avg       0.96      0.96      0.96       450
+
+Probabilitas Prediksi untuk Data Testing:
+Data 1:
+  Flood: 0.00%
+  Normal: 100.00%
+
+Data 2:
+  Flood: 100.00%
+  Normal: 0.00%
+
+Data 3:
+  Flood: 0.00%
+  Normal: 100.00%
+
+Data 4:
+  Flood: 100.00%
+  Normal: 0.00%
+
+Data 5:
+  Flood: 18.18%
+  Normal: 81.82%
+
+Day 6 Testing Result with 4000 Data =
