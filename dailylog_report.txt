@@ -137,3 +137,5 @@ Data 4:
 Data 5:
   Flood: 100.00%
   Normal: 0.00%
+
+Day 8 Testing Result with 6000 data =
