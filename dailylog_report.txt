@@ -86,23 +86,23 @@ Classification Report K 11:
 weighted avg       0.97      0.97      0.97       603
 
 Probabilitas Prediksi untuk Data Testing:
-Network 1:
+Data 1:
+  Flood: 7.41%
+  Normal: 92.59%
+
+Data 2:
   Flood: 0.00%
   Normal: 100.00%
 
-Network 2:
+Data 3:
   Flood: 0.00%
   Normal: 100.00%
 
-Network 3:
+Data 4:
   Flood: 0.00%
   Normal: 100.00%
 
-Network 4:
-  Flood: 0.00%
-  Normal: 100.00%
-
-Network 5:
+Data 5:
   Flood: 0.00%
   Normal: 100.00%
 
