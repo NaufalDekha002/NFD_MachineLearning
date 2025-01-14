@@ -75,3 +75,35 @@ Data 5:
   Normal: 81.82%
 
 Day 6 Testing Result with 4000 Data =
+Classification Report K 11: 
+              precision    recall  f1-score   support
+
+       Flood       0.97      0.97      0.97       277
+      Normal       0.97      0.97      0.97       326
+
+    accuracy                           0.97       603
+   macro avg       0.97      0.97      0.97       603
+weighted avg       0.97      0.97      0.97       603
+
+Probabilitas Prediksi untuk Data Testing:
+Network 1:
+  Flood: 0.00%
+  Normal: 100.00%
+
+Network 2:
+  Flood: 0.00%
+  Normal: 100.00%
+
+Network 3:
+  Flood: 0.00%
+  Normal: 100.00%
+
+Network 4:
+  Flood: 0.00%
+  Normal: 100.00%
+
+Network 5:
+  Flood: 0.00%
+  Normal: 100.00%
+
+Day 7 Testing Result with 5000 Data =
