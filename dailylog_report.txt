@@ -107,3 +107,33 @@ Data 5:
   Normal: 100.00%
 
 Day 7 Testing Result with 5000 Data =
+Classification Report K 5: 
+              precision    recall  f1-score   support
+
+       Flood       0.98      0.97      0.98       391
+      Normal       0.98      0.98      0.98       412
+
+    accuracy                           0.98       803
+   macro avg       0.98      0.98      0.98       803
+weighted avg       0.98      0.98      0.98       803
+
+Probabilitas Prediksi untuk Data Testing:
+Data 1:
+  Flood: 0.00%
+  Normal: 100.00%
+
+Data 2:
+  Flood: 100.00%
+  Normal: 0.00%
+
+Data 3:
+  Flood: 100.00%
+  Normal: 0.00%
+
+Data 4:
+  Flood: 100.00%
+  Normal: 0.00%
+
+Data 5:
+  Flood: 100.00%
+  Normal: 0.00%
